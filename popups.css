@@ -1,0 +1,49 @@
+body {
+	background-color: #OOOOOO;
+	color: #fff;
+	font-family: sans-serif;
+}
+
+header {
+	padding: 20px;
+}
+
+main {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 20px;
+}
+
+.lien {
+	background-color: #fff;
+	color: #000;
+	padding: 20px;
+	margin: 20px;
+	flex: 1 1 300px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.lien h2 {
+	margin-top: 0;
+}
+
+.lien time {
+	font-size: 0.8em;
+	color: #888;
+}
+
+.lien a {
+	display: inline-block;
+	margin-top: 10px;
+	background-color: #000;
+	color: #fff;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+	transition: background-color 0.2s ease;
+}
+
+.lien a:hover {
+	background-color: #555;
+}
