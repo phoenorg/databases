@@ -1,4 +1,4 @@
-# Phoen Intelligence Databases management system
+# Databases management system
 
 ## Introduction
 
