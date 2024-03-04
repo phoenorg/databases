@@ -4,6 +4,12 @@
 
 Welcome to the Phoen Intelligence Database Management repository! Here, you'll find all the tools and scripts needed to manage the databases that power the Phoen Intelligence website.
 
+![TermsLens logo](https://raw.githubusercontent.com/Malwprotector/termslens/main/img/ilu1.png)
+
+### Table of contents
+
+- [Database structure](https://github.com/phoenorg/blob/main/README.md#Database-Structure)
+
 ## Database Structure
 
 Our database architecture consists of three primary tables, each serving a specific purpose:
