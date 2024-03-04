@@ -4,11 +4,11 @@
 
 Welcome to the Phoen Intelligence Database Management repository! Here, you'll find all the tools and scripts needed to manage the databases that power the Phoen Intelligence website.
 
-![TermsLens logo](https://raw.githubusercontent.com/Malwprotector/termslens/main/img/ilu1.png)
+![TermsLens logo](https://raw.githubusercontent.com/phoenorg/databases/main/databases.png)
 
 ### Table of contents
 
-- [Database structure](https://github.com/phoenorg/blob/main/README.md#Database-Structure)
+- [Database structure](https://github.com/phoenorg/databases/edit/main/README.md#database-structure)
 
 ## Database Structure
 
