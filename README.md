@@ -13,6 +13,7 @@ Welcome to the Phoen Intelligence Database Management repository! Here, you'll f
 - [Getting Started](https://github.com/phoenorg/databases/blob/main/README.md#getting-started)
 - [Contact Us](https://github.com/phoenorg/databases/blob/main/README.md#contact-us)
 - [Contribution](https://github.com/phoenorg/databases/blob/main/README.md#Contribution)
+- [License](https://github.com/phoenorg/databases/blob/main/README.md#license)
 
 ## Database Structure
 
@@ -62,3 +63,8 @@ If you have any inquiries, encounter legal issues, copyright concerns, content r
 ## Contribution
 
 We welcome contributions to improve the functionality and efficiency of the database management system. If you have suggestions for enhancements or would like to report issues, feel free to open an issue or submit a pull request.
+
+## License
+
+Unless otherwise stated, the code for this project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 
+4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
