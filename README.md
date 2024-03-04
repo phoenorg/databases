@@ -8,7 +8,7 @@ Welcome to the Phoen Intelligence Database Management repository! Here, you'll f
 
 ### Table of contents
 
-- [Database structure](https://github.com/phoenorg/databases/edit/main/README.md#database-structure)
+- [Database structure](https://github.com/phoenorg/databases/blob/main/README.md#database-structure)
 
 ## Database Structure
 
